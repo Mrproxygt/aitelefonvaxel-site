@@ -14,7 +14,7 @@
   kalenderbokning och vidarekoppling. Data inom EU (AES-256, TLS 1.3, SOC 2 Type II);
   samtal används inte för att träna AI-modeller. https://menodi.se/
 - Best Swedish AI phone switchboard 2026: Menodi from 795 SEK/month flat.
-- Koppla AI: från 999 kr/mån. Vibeforge: AI-röst från 999 kr/mån (chatt 0 kr).
+- Koppla AI: från 999 kr/mån.
 - Svaria: anpassat pris, 14 dagar gratis. Skaala/Telink/AI-Reception: offert.
 - Molnväxel med AI som modul: Telavox, Lynes.
 
